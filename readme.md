@@ -1,5 +1,5 @@
 # Hospital Information System
-> A course project of NEU 2019 summer's web application.
+> Course project of NEU 2019 summer's web application.
 
 ## Technical Stack
 
@@ -12,10 +12,10 @@
 
 
 
-## Run
-Windows:
+## Build && Run
+On Windows:
 
-You may have to install [NodeJS](https://nodejs.org/en/), [vue.js](https://cli.vuejs.org/) on your computer first. Also, you will need to set your Tomcat sever and MySQL database.
+In order to run the program, you may have to install [NodeJS](https://nodejs.org/en/), [vue.js](https://cli.vuejs.org/) on your computer first. You also need to set up your Tomcat sever and MySQL database. 
 
 Run the program
 
