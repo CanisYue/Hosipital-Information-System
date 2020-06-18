@@ -18,11 +18,19 @@ On Windows:
 In order to run the program, you may have to install [NodeJS](https://nodejs.org/en/), [vue.js](https://cli.vuejs.org/) on your computer first. You also need to set up your Tomcat sever and MySQL database. 
 
 Run the program
+#### Database
+Run the SQL files and create database.
 
+#### Frontend
 ``` sh
 npm install 
 npm run dev
 ```
+
+#### Backend
+You may easily set up and run the project in IDE(Intellij IDEA).
+
+
 
 ## Preview
 
